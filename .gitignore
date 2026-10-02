@@ -1,0 +1,5 @@
+# Real configs can hold passwords; only the example is tracked
+*.env
+!droplet.env.example
+
+.DS_Store
